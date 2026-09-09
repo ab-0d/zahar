@@ -69,7 +69,7 @@ const menuCategories = [
     id: "ice-coffee",
     title: "آيس كوفي",
     subtitle: "قهوة مثلجة بطعم الكراميل أو الكاكاو",
-    image: "images/category-coffee.png",
+    image: "images/Ice-coffee.png",
     variants: [{ label: "آيس كوفي", price: 1000 }],
     flavorGroups: [{ title: "النكهات", flavors: ["كراميل", "كاكاو"] }],
   },
